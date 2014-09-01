@@ -8,7 +8,7 @@ Talk by Donat Fritschy, Webmanufaktur and Ekke Dörre, Coolscreen at eZ Summerca
 
 ### Slides as PDF
 
-<https://github.com/cjw-network/SummerCampBundle/Resources/doc/learnings.pdf>
+<https://github.com/cjw-network/SummerCampBundle/raw/master/Resources/doc/learnings.pdf>
 
 ### Slides (Source)
 
