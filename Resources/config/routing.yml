@@ -1,0 +1,3 @@
+cjw_summer_camp_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: CjwSummerCampBundle:Default:index }
