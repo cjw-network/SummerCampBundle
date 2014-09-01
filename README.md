@@ -16,4 +16,4 @@ Talk by Donat Fritschy, Webmanufaktur and Ekke Dörre, Coolscreen at eZ Summerca
 
 ## Copyright &amp; license
 
-Copyright CWJ Network, for copyright and license details see provided LICENSE file.
+Copyright CJW Network, for copyright and license details see provided LICENSE file.
